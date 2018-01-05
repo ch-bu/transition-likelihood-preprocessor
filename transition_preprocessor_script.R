@@ -5,7 +5,7 @@
 # Paket laden
 library(tidyverse)
 
-# Read excel file
+# Read csv file
 # TODO: Nimmt an, dass die csv mit Semicolons getrennt ist (;)
 # TODO: Hier den richtigen Pfad für die Datei einfügen (hier: sequences.csv)
 # TODO: Sicher stellen, dass die Spalte mit den Sequenzen 'sequenzen' heißt
@@ -16,7 +16,6 @@ data <- read_delim("sequences.csv", delim = ";")
 grouped_data <- data %>%
   group_by(participant) %>%
   nest()
-
 
 process_transitions <- function(participant_dataframe) {
   # Computes the sum of all transitions within the data frame
