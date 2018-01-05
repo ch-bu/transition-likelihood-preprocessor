@@ -1,37 +1,37 @@
-id;sequenzen
-1;lexical overlap
-2;bridging information
-3;bridging information
-4;lexical overlap
-5;connective
-6;bridging information
-7;connective
-8;ellipsis
-9;lexical overlap
-10;connective
-11;bridging information
-12;ellipsis
-13;lexical overlap
-14;ellipsis
-15;bridging information
-16;ellipsis
-17;lexical overlap
-18;ellipsis
-19;bridging information
-20;ellipsis
-21;bridging information
-22;bridging information
-23;ellipsis
-24;ellipsis
-25;lexical overlap
-26;ellipsis
-27;ellipsis
-28;bridging information
-29;bridging information
-30;bridging information
-31;ellipsis
-32;ellipsis
-33;ellipsis
-34;lexical overlap
-35;ellipsis
-36;ellipsis
+participant;id;sequenzen
+1;1;lexical overlap
+1;2;bridging information
+1;3;bridging information
+1;4;lexical overlap
+1;5;connective
+1;6;bridging information
+1;7;connective
+1;8;ellipsis
+1;9;lexical overlap
+2;1;connective
+2;2;bridging information
+2;3;ellipsis
+2;4;lexical overlap
+2;5;ellipsis
+2;6;bridging information
+2;7;ellipsis
+3;1;lexical overlap
+3;2;ellipsis
+3;3;bridging information
+3;4;ellipsis
+3;5;bridging information
+3;6;bridging information
+3;7;ellipsis
+3;8;ellipsis
+3;9;lexical overlap
+3;10;ellipsis
+4;1;ellipsis
+4;2;bridging information
+4;3;bridging information
+4;4;bridging information
+4;5;ellipsis
+4;6;ellipsis
+4;7;ellipsis
+4;8;lexical overlap
+4;9;ellipsis
+4;10;ellipsis

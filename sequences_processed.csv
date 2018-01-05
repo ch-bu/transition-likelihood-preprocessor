@@ -1,0 +1,26 @@
+"participant","sequences","count"
+1,"lexical overlap - bridging information",1
+1,"bridging information - bridging information",1
+1,"bridging information - lexical overlap",1
+1,"lexical overlap - connective",1
+1,"connective - bridging information",1
+1,"bridging information - connective",1
+1,"connective - ellipsis",1
+1,"ellipsis - lexical overlap",1
+2,"connective - bridging information",1
+2,"bridging information - ellipsis",2
+2,"ellipsis - lexical overlap",1
+2,"lexical overlap - ellipsis",1
+2,"ellipsis - bridging information",1
+3,"lexical overlap - ellipsis",2
+3,"ellipsis - bridging information",2
+3,"bridging information - ellipsis",2
+3,"bridging information - bridging information",1
+3,"ellipsis - ellipsis",1
+3,"ellipsis - lexical overlap",1
+4,"ellipsis - bridging information",1
+4,"bridging information - bridging information",2
+4,"bridging information - ellipsis",1
+4,"ellipsis - ellipsis",3
+4,"ellipsis - lexical overlap",1
+4,"lexical overlap - ellipsis",1
